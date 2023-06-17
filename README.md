@@ -5,7 +5,7 @@
 
 ---
 
-Basada en la versión de DDY y AnithingButAniplex.
+Basada en la versión de DDY y AnythingButAniplex.
 
 Para los episodios del 9 al 13 se usó el TS de la versión de Flugel&Jairo.
 
