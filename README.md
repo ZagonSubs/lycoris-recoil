@@ -21,7 +21,7 @@ El KFX del OP es de Flujel&Jairo también. Probablemente se reemplazará en la v
 
 ---
 
-Última versión de los subs disponible en [releases](https://github.com/ZagonSubs/lycoris-recoil/releases/) (v1.0 WEB)
+Última versión de los subs disponible en [releases](https://github.com/ZagonSubs/lycoris-recoil/releases/) (v1.1 WEB)
 
 ---
 
